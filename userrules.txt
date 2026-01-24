@@ -1,0 +1,3 @@
+# User Rules 
+1. User can add and remove the files
+2.user can delete a repo's
