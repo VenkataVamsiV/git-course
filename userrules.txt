@@ -1,4 +1,4 @@
 # User Rules 
 1. User can add and remove the files
 2.user can delete a repo's
-3. new rule 
+3 new rule 
